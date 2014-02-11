@@ -1,19 +1,8 @@
-<--- --------------------------------------------------------------------------------------- ----
-	
-	Blog Entry:
+/*
 	jQuery Plugin: Tracing Your Selector Paths
-	
 	Author:
 	Ben Nadel / Kinky Solutions
-	
-	Link:
-	http://www.bennadel.com/index.cfm?event=blog.view&id=1710
-	
-	Date Posted:
-	Sep 15, 2009 at 2:25 PM
-	
----- --------------------------------------------------------------------------------------- --->
-
+*/
 
 // Create a closure and a self-executing method so that the
 // trace method can create variable dependencies without
