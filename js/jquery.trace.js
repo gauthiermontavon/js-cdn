@@ -1,7 +1,6 @@
 /*
 	jQuery Plugin: Tracing Your Selector Paths
-	Author:
-	Ben Nadel / Kinky Solutions
+	Author:Ben Nadel / Kinky Solutions
 */
 
 // Create a closure and a self-executing method so that the
